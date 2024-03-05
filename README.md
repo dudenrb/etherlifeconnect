@@ -13,10 +13,6 @@
   <p align="center">
     A dApp platform connecting organ donor and acceptor via ethereum blockchain.
     <br />
-    <!-- <a href="https://github.com/rahulsabinkar/organ-donation-platform"><strong>Explore the docs »</strong></a>
-    <br />
-    <br /> -->
-    <!-- <a href="https://github.com/rahulsabinkar/organ-donation-platform">View Demo</a> -->
   </p>
 </div>
 
@@ -57,11 +53,11 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/rahulsabinkar/organ-donation-platform.git
+   git clone 
    ```
 3. Traverse into the app folder.
    ```sh
-   cd organ-donation-platform/app
+   cd organdonorjiit/app
    ```
 4. Install npm dependencies.
    ```sh
