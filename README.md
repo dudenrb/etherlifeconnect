@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/rahulsabinkar/organ-donation-platform">
+  <a href="https://github.com/dudenrb/organdonorjiit.git">
     <img src="https://i.ibb.co/JmqG0X8/download.png" width="400" height="100" alt="Logo" width="80" height="80">
   </a>
 
