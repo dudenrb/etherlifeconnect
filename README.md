@@ -53,7 +53,7 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone 
+   git clone https://github.com/dudenrb/organdonorjiit.git
    ```
 3. Traverse into the app folder.
    ```sh
