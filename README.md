@@ -11,10 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/rahulsabinkar/organ-donation-platform">
-    <img src="app/images/../src/images/organ-donation-logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/JmqG0X8/download.png" width="400" height="100" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Organ Donation Platform</h3>
+<h3 align="center">Etherlife Connect</h3>
 
   <p align="center">
     A dApp platform connecting organ donor and acceptor via ethereum blockchain.
@@ -26,25 +26,7 @@
   </p>
 </div>
 
-## Screenshots
 
-### Landing Page
-
-![Landing Page](app/src/screenshots/landing-page.png)
-
-### Dashboard
-
-![Dashboard Page](app/src/screenshots/dashboard.png)
-
-### Viewing Database
-
-![Database Viewing Page](app/src/screenshots/viewing-patients.png)
-
-### Transplant Matching
-
-![Transplant Matching Page](app/src/screenshots/transplant-matching.png)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 
@@ -66,29 +48,7 @@ You would need these software installed on your machine to run the project.
   
   Note: If you're on Windows 11, make sure to have latest LTS version of nodejs installed, or else you'll probably run into some issues.
 
-  #### Arch Linux:
-  Open a terminal and type the following command.
-  ```sh
-  sudo pacman -S nodejs npm
-  ```
 
-  #### Ubuntu:
-  Open a terminal and type these commands in order.
-  ```sh
-    sudo apt update
-    sudo apt install nodejs
-    sudo apt install npm
-  ```
-  #### RedHat, Fedora, CentOS:
-  ```sh
-  sudo yum update
-  curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -
-  ```
-  #### MacOS:
-  1. Download the LTS application binary for MacOS.
-  2. When the file finishes downloading, locate it in Finder and double-click on it.
-  3. Go through the entire installation process.
-   
 ### Truffle
 Open the command prompt or terminal and execute the following command.
 ```sh
@@ -100,17 +60,6 @@ Visit the Ganache webpage at http://trufflesuite.com/ganache/
 Download the platform binary for your OS and install it.
 
 ### Git
-
-#### Arch Linux
-```sh
-sudo pacman -S git
-```
-
-#### Ubuntu
-```sh
-sudo apt update
-sudo apt install git
-```
 
 #### Windows
 Install gitbash from https://gitforwindows.org/
@@ -154,27 +103,6 @@ Now that everything is set-up, you can run the server.
    ```
 2. Open a browser and go to http://localhost:8080/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Team Members
-
-* [Rahul Sabinkar](https://github.com/RahulSabinkar)
-* [Sai Manikanta Teja](https://github.com/SaiManikantaTeja)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rahulsabinkar/organ-donation-platform.svg?style=for-the-badge
-[contributors-url]: https://github.com/rahulsabinkar/organ-donation-platform/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rahulsabinkar/organ-donation-platform.svg?style=for-the-badge
-[forks-url]: https://github.com/rahulsabinkar/organ-donation-platform/network/members
-[stars-shield]: https://img.shields.io/github/stars/rahulsabinkar/organ-donation-platform.svg?style=for-the-badge
-[stars-url]: https://github.com/rahulsabinkar/organ-donation-platform/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rahulsabinkar/organ-donation-platform.svg?style=for-the-badge
-[issues-url]: https://github.com/rahulsabinkar/organ-donation-platform/issues
-[node-shield-url]: https://img.shields.io/badge/node.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white
-[node-url]: https://nodejs.org/
-[solidity-shield-url]: https://img.shields.io/badge/solidity-blue?style=for-the-badge&logo=solidity&logoColor=white
-[solidity-url]: https://soliditylang.org/
